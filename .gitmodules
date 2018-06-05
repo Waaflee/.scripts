@@ -1,0 +1,3 @@
+[submodule "proyect-generator"]
+	path = proyect-generator
+	url = git@github.com:Waaflee/proyect-generator.git
